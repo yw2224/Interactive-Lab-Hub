@@ -115,7 +115,7 @@ void loop() {
 I tore apart a bluetooth mouse:
 
 ![a relative link](./Media/mouse.jpg)
-![a relative link](./Media/mouse-schematic.png)
+![a relative link](./Media/mouse-diagram.png)
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
