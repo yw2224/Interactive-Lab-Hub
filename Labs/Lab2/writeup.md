@@ -6,7 +6,7 @@ yw2224@cornell.edu
 
 **Take a picture of your soldered panel and add it here!**
 
-![a relative link](./Media/solder.jpg)
+<img src="./Media/solder.jpg" width="350">
 
 ## Part B. Writing to the LCD
  
