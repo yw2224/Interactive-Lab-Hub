@@ -4,6 +4,7 @@ Completed Labs for yw2224
 
 1. [Lab 1](./Labs/Lab1/writeup.md)
 2. [Lab 2](./Labs/Lab2/writeup.md)
+3. [Lab 2](./Labs/Lab3/writeup.md)
 
 Pre Labs for yw2224
 
