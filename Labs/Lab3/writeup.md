@@ -41,29 +41,9 @@ We can map the sensor output to the LED value range by using `map(output, 0, 102
 
 I used a 10k resistor for all three sensors, and it seemed to be working fine.
 
-<!--For the photoresistor, using five 1000 Ohm resistors in series (5k Ohms total), gave me a volage range from 2.25V-3.71V, which is sufficient using my if/else structure.
-
-For the flex sensor resistor, I used the 10k Ohm resistor, which gave me an analog reading range from 0.49V-1.96V, which is sufficient using my if/else structure.
-
-For the softpot, I used the 10k Ohm resistor, which gave me an analog reading range from 1.96V-5V, which is sufficient using my if/else structure.
--->
-
-<!--
-To get the full range of output voltages you can add resistors in series after the FSR. With a 10k resistor I seem to be able to get a range of about 500-1024 integer units, or ~2.5-5V for each sensor.
--->
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
 
 For the FSR and Flex Sensor, there appears to be a logarithmic relationship. Photo cell and Softpot seem to be linear.
-
-<!--For the photoresistor, there appears to be a linear relationship.
-
-For the flex sensor resistor, there appears to be a logarithmic relationship.
-
-For the softpot, different areas of the softpot map to different resistances.-->
-
-<!--FSR & Flex Sensor appear to be logorithmic
-
-Photo cell & softpot appear linear.-->
 
 ### 2. Accelerometer
  
