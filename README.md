@@ -10,3 +10,4 @@ Pre Labs for yw2224
 
 1. preLab 1
 2. [preLab 2](./preLabs/preLab2/writeup.md)
+2. [preLab 3](./preLabs/preLab3/writeup.md)
