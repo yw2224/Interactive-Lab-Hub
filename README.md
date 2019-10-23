@@ -7,6 +7,7 @@ Completed Labs for yw2224
 3. [Lab 3](./Labs/Lab3/writeup.md)
 4. [Lab 4](./Labs/Lab4/writeup.md)
 5. [Lab 5](./Labs/Lab5/writeup.md)
+6. [Lab 6](./Labs/Lab6/IDD-Fa19-Lab6-master/README.md)
 
 Pre Labs for yw2224
 
