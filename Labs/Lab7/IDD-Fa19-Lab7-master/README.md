@@ -13,7 +13,7 @@
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
 
-The main difference is that pictureServer.js uses NodeWebcam to control the camera and allows users to take pictures.  
+The main difference is that pictureServer.js uses NodeWebcam to control the camera and allows users to take pictures.  It also includes the camera set up code and an additional html line for image display.
 
 
 **b. Include a video of your working video doorbell**
