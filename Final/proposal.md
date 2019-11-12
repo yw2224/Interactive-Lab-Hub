@@ -14,9 +14,9 @@ Yixue Wang (yw2224), Bo Fang (bf366)
 
 <img src="./board.png" width="350">
 
-<img src="./pic.PNG" width="450">
+<img src="./pic.png" width="450">
 
-<img src="./circuit.PNG" width="350">
+<img src="./circuit.png" width="350">
 
 
 
