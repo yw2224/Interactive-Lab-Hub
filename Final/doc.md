@@ -105,7 +105,7 @@ Rotate your hand to change directions to hover over the landscape. Bend to zoom 
 
 <img src="./Media/FullPrint_Gauntlet.pdf" width="300">
 
-[Gauntlet](./Media/FullPrint_Gauntlet.stl)
+[Gauntlet](./Media/FullPrint_Gauntlet.jpg)
 
 
 ### Arduino
