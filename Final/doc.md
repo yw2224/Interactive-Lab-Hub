@@ -103,9 +103,9 @@ Rotate your hand to change directions to hover over the landscape. Bend to zoom 
 
 ### 3D Printing
 
-<img src="./Media/FullPrint_Gauntlet.pdf" width="300">
+<img src="./Media/FullPrint_Gauntlet.jpg" width="300">
 
-[Gauntlet](./Media/FullPrint_Gauntlet.jpg)
+[Gauntlet](./Media/FullPrint_Gauntlet.stl)
 
 
 ### Arduino
