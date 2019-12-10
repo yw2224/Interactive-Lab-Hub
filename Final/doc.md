@@ -18,12 +18,11 @@ Yixue Wang (yw2224), Bo Fang (bf366)
 
 #### The Gauntlet
 
-<img src="./Media/4-2.jpg", width="250">
+<img src="./Media/4-2.jpg" width="250"/>
 
-<img src="./Media/4-1.png", width="250">
+<img src="./Media/4-1.png" width="250"/>
 
-
-<img src="./Media/4-3.jpeg", width="250">
+<img src="./Media/4-3.jpeg" width="250"/>
 
 
 
@@ -45,45 +44,45 @@ Yixue Wang (yw2224), Bo Fang (bf366)
 
 - Paper Prototype
 
-<img src="./Media/1.png", width="350">
+<img src="./Media/1.png" width="350"/>
 
 - Sensors & 3D Printed Gautlet
 
-<img src="./Media/2-1.png", width="350">
+<img src="./Media/2-1.png" width="350"/>
 
 - Displays & Laser Cut Box Added 
 
-<img src="./Media/3-1.png", width="350">
+<img src="./Media/3-1.png" width="350"/>
 
 - Final Iteration
 
-<img src="./Media/4-1.png", width="350">
+<img src="./Media/4-1.png" width="350"/>
 
 
 ## Usage and Functionality
 
 ### Home Page
-<img src="./Media/home.png", width="350">
+<img src="./Media/home.png" width="350">
 
 We create an entertainment hub using Node.js. Once the server is started and the gauntlet connected, all five LEDs light up and the OLED shows a welcome message. We currently have four apps on our website menu that you can select from. Bend your fingers to select and tap to enter. You can always return to the home page by tapping your fingers twice.  Everytime the state changes (select an app or return to home page), the LEDs blink and the OLED displays different instruction messages. 
 
 ### Game: Space Shooter
-<img src="./Media/shooter.png", width="350">
+<img src="./Media/shooter.png" width="350">
 
 Rotate your hand to control the space ship to go up / down / left / right. Bend your finger to shoot the enemies. Tap once to pause or resume.
 
 ### Game: Breakout
-<img src="./Media/breakout.png", width="350">
+<img src="./Media/breakout.png" width="350">
 
 Rotate your hand to control the board to go left / right. Tap once to resume.
 
 ### Youtube Video Player
-<img src="./Media/youtube.png", width="350">
+<img src="./Media/youtube.png" width="350">
 
 Rotate your hand, left / right for fast backward / forward, up / down for volume control. Bend your finger to pause or start a video. Tap once to play the next video, three times for previous video. The OLED displays the name of the current playing video.
 
 ### Google Maps
-<img src="./Media/map.png", width="350">
+<img src="./Media/map.png" width="350">
 
 Rotate your hand to change directions to hover over the landscape. Bend to zoom in. Tap to zoom out. The OLED shows the current coordinate of the center of the map.
 
@@ -94,17 +93,17 @@ Rotate your hand to change directions to hover over the landscape. Bend to zoom 
 
 ### Laser Cut
 
-<img src="./Media/Glove.png", width="300">
+<img src="./Media/Glove.png" width="300">
 
 [Glove](./Media/Glove.ai)
 
-<img src="./Media/Box.png", width="300">
+<img src="./Media/Box.png" width="300">
 
 [Box](./Media/BoxV2.ai)
 
 ### 3D Printing
 
-<img src="./Media/FullPrint_Gauntlet.pdf", width="300">
+<img src="./Media/FullPrint_Gauntlet.pdf" width="300">
 
 [Gauntlet](./Media/FullPrint_Gauntlet.stl)
 
