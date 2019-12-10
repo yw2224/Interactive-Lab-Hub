@@ -22,7 +22,7 @@
   http://www.arduino.cc/en/Tutorial/Blink
 */
 
-const int PIN = 11;
+const int PIN = 10;
 int count;
 
 void setup() {

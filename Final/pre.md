@@ -16,9 +16,9 @@ Yixue Wang (yw2224), Bo Fang (bf366)
 
 ## Rough form: 
 
-<img src="./pic.png" width="450">
+<img src="./Media/pic.png" width="450">
 
-<img src="./circuit.png" width="350">
+<img src="./Media/circuit.png" width="350">
 
 
 ## Current Progress

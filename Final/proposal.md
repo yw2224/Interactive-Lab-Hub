@@ -12,11 +12,11 @@ Yixue Wang (yw2224), Bo Fang (bf366)
 
 #### Rough form: this is your paper prototype (put photos on your GitHub, bring the actual thing to class)
 
-<img src="./board.png" width="350">
+<img src="./Media/board.png" width="350">
 
-<img src="./pic.png" width="450">
+<img src="./Media/pic.png" width="450">
 
-<img src="./circuit.png" width="350">
+<img src="./Media/circuit.png" width="350">
 
 
 

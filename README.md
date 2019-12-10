@@ -1,5 +1,7 @@
 # Interactive-Lab-Hub
 
+[Final Project: Interactive Gauntlet](./Final/doc.md)
+
 Completed Labs for yw2224
 
 1. [Lab 1](./Labs/Lab1/writeup.md)
